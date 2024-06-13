@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **My school project**<br><br>- 🌱 I’m currently learning **Machine Learning**<br><br>- 👯 I’m looking to collaborate on **Open source Projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/OMONDISOFTWAREENGINEER/](https://github.com/OMONDISOFTWAREENGINEER/)<br><br>- 💬 Ask me about **Javascript, React**<br><br>- 📫 How to reach me **omondiwriter@gmail.com**
+- 🔭 I’m currently working on **My school projects**<br><br>- 🌱 I’m currently learning **Machine Learning**<br><br>- 👯 I’m looking to collaborate on **Open source Projects**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/OMONDISOFTWAREENGINEER/](https://github.com/OMONDISOFTWAREENGINEER/)<br><br>- 💬 Ask me about **Javascript, React**<br><br>- 📫 How to reach me **omondiwriter@gmail.com**
 
 
 ## 🌐 Socials:
