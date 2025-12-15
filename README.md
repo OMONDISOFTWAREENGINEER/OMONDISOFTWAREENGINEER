@@ -17,12 +17,12 @@
 ---
 
 # 💫 Professional Summary
-I am an innovative **Senior Full Stack Software Engineer** with **4+ years of experience** across the full software development lifecycle (SDLC). I specialize in building scalable web and mobile applications using **MERN/PERN stacks** and **Flutter**.
+I am an innovative **Senior Full Stack Software Engineer** with **4+ years of experience** across the full software development lifecycle (SDLC). I specialize in building scalable web and mobile applications using **MERN/PERN stacks** and **Cross-Platform Mobile Technologies (Flutter & React Native)**.
 
 I excel at translating complex business requirements into user-friendly technical solutions, with a strong focus on **Data Quality, System Documentation, and Cloud Architecture**.
 
 *   🔭 **Current Role:** Lead Developer at [**Website Designer Guru**](https://www.websitedesignerguru.com/)
-*   🚀 **Core Expertise:** Process Automation, Admin Dashboards, API Integration, and Cross-Platform Mobile Apps.
+*   🚀 **Core Expertise:** Process Automation, Admin Dashboards, API Integration, and Mobile App Development.
 *   ⚡ **Soft Skills:** Technical Leadership, Agile/Scrum, Stakeholder Management, and Remote Collaboration.
 
 ---
@@ -30,7 +30,7 @@ I excel at translating complex business requirements into user-friendly technica
 # 💻 Tech Stack & Tools
 
 ### 📱 Frontend & Mobile (UI/UX):
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Database (MERN & PERN):
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
