@@ -1,39 +1,72 @@
-# 💫 About Me:
-Hi, I'm **Sylvester**. I am a **Senior Full Stack Software Engineer** with **4+ years of professional experience** transforming complex requirements into scalable, high-performance web solutions.
-
-I don't just write code; I build digital products that drive business growth.
-
-- 🔭 I’m currently the Lead Developer at [**Website Designer Guru**](https://www.websitedesignerguru.com/)
-- 🚀 **Hire Me:** I am open to **freelance projects, consulting, and full-time roles**.
-- 💼 View my proven track record at [**dev-sylvester.pages.dev**](https://dev-sylvester.pages.dev/)
-- 🌱 I’m currently integrating **AI & Machine Learning** into modern web architectures.
-- 💬 Let's talk about **MERN vs PERN architectures, System Design, and Cloud Scalability**.
-- 📫 Reach me for inquiries: **omondiwriter@gmail.com**
+# 👨‍💻 Sylvester Omondi
+### Senior Software Developer | Data Systems Analyst
+**Nairobi, Kenya** | 📞 **+254 701 043 391**
 
 ---
 
-### 🚀 Why Work With Me?
-With over 4 years in the industry, I bridge the gap between backend logic and frontend elegance.
-*   **Full Cycle Development:** From database schema design (SQL/NoSQL) to responsive UI deployment.
-*   **Stack Versatility:** Expert in both **MERN** (MongoDB) and **PERN** (PostgreSQL) stacks, allowing me to choose the right tool for your specific data needs.
-*   **Performance First:** I write clean, maintainable code optimized for speed and SEO.
-*   **Client-Centric:** I have a history of delivering projects on time and exceeding client expectations (as seen in my agency work).
+# 💫 Professional Summary
+I am an innovative **Full Stack Software Engineer** with **4+ years of experience** across the full software development lifecycle (SDLC). I specialize in building scalable data platforms (MERN/PERN) and automating complex business processes.
+
+I excel at translating program requirements into user-friendly technical solutions, with a strong focus on **Data Quality, System Documentation, and Cloud Architecture (Azure/AWS)**.
+
+- 🔭 I’m currently the **Lead Developer** at [**Website Designer Guru**](https://www.websitedesignerguru.com/)
+- 💼 View my professional portfolio: [**dev-sylvester.pages.dev**](https://dev-sylvester.pages.dev/)
+- 📧 Email me directly: **somondi398@gmail.com**
+- ⚡ **Core Competencies:** Data Systems Development, API Integration, Database Design (SQL/NoSQL), and Technical Support (Tier-2/3).
 
 ---
 
-## 🌐 Connect & Hire:
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-ff69b4?style=for-the-badge&logo=kofi&logoColor=white)](https://dev-sylvester.pages.dev/) [![Website](https://img.shields.io/badge/Agency-Website_Designer_Guru-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.websitedesignerguru.com/) [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omondiwriter@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OMONDISOFTWAREENGINEER)
+## 🌐 Connect & Hire Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvester-omondi-2868b8219) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254_701_043_391-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254701043391) [![Email](https://img.shields.io/badge/Email-somondi398%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somondi398@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-ff69b4?style=for-the-badge&logo=kofi&logoColor=white)](https://dev-sylvester.pages.dev/)
+
+---
+
+# 💼 Professional Experience
+
+### 🏢 **Frontend Developer & Technical Writer** | *Digital Security1 (Remote)*
+*August 2023 – Present*
+- **Technical Documentation:** Authored over 50 pages of comprehensive system diagrams and implementation manuals, standardizing development processes.
+- **Data Visualization:** Engineered a client-facing analytics dashboard to visualize real-time security KPIs.
+- **Quality Assurance:** Collaborated with QA teams to enforce strict data security and performance benchmarks before deployment.
+
+### 🏢 **Software Developer (Data Systems Focus)** | *HolyGrail Tresses (Remote)*
+*August 2024 – February 2025*
+- **Business Automation:** Designed a custom inventory administrative platform, replacing manual spreadsheets and **reducing data entry errors by 40%**.
+- **Security Implementation:** Implemented Role-Based Access Control (RBAC) and encryption protocols to safeguard sensitive financial data.
+- **System Integration:** Built secure API connectors for third-party payment gateways.
+
+### 🏢 **Full Stack Developer** | *APBC Africa (Nairobi, Kenya)*
+*May 2024 – December 2024*
+- **HR System Development:** Developed a scalable HR automation tool for leave management and payroll (similar to Enterprise PowerApps).
+- **Workflow Automation:** Engineered intelligent chatbots and automated notification triggers to **reduce manual administrative workload by 30%**.
+- **Cloud Deployment:** Managed configuration/deployment on **AWS/Azure**, ensuring stability for remote staff.
+
+### 🏢 **Data Analyst & Technical Consultant** | *Freelance (Remote)*
+*January 2023 – Present*
+- **M&E Support:** Analyzed complex client datasets to identify trends and clean data irregularities.
+- **Requirement Analysis:** Conducted stakeholder interviews to bridge the gap between business needs and technical implementation.
+
+---
 
 # 💻 Tech Stack Strategy:
 
-### 🏆 The Powerhouses (MERN & PERN Expertise):
+### 🏆 Core Expertise (MERN & PERN):
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-### 🛠️ Languages & Cloud Infrastructure:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+### ☁️ Cloud & DevOps:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=flat&logo=github-actions&logoColor=white)
 
-### 🎨 UI/UX & Design Systems:
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+### 🛠️ Languages & Tools:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+
+---
+
+# 🎓 Education
+**Bachelor of Science in Software Development**
+*KCA University, Nairobi* | Second Class Honours (Upper Division)
+*Graduated: Dec 2024*
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OMONDISOFTWAREENGINEER&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -44,4 +77,9 @@ With over 4 years in the industry, I bridge the gap between backend logic and fr
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=OMONDISOFTWAREENGINEER&label=Profile%20Views&icon=7&pretty=false)](https://visitcount.itsvg.in)
+<div align="center">
+    <h3>👀 Profile Visitor Count</h3>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=OMONDISOFTWAREENGINEER&label=Views&icon=5&pretty=true" />
+    </a>
+</div>
