@@ -1,5 +1,5 @@
 # 👨‍💻 Sylvester Omondi
-### Senior Software Developer | Data Systems Analyst
+### Senior Full-Stack Software Developer 
 📍 **Nairobi, Kenya** | 📞 **+254 701 043 391**
 
 ---
@@ -17,62 +17,63 @@
 ---
 
 # 💫 Professional Summary
-I am an innovative **Senior Full Stack Software Engineer** with **4+ years of experience** across the full software development lifecycle (SDLC). I specialize in building scalable web and mobile applications using **MERN/PERN stacks** and **Cross-Platform Mobile Technologies (Flutter & React Native)**.
 
-I excel at translating complex business requirements into user-friendly technical solutions, with a strong focus on **Data Quality, System Documentation, and Cloud Architecture**.
+💻 I’m a **Senior Full-Stack Software Developer** passionate about **Frontend AND Backend Engineering**, **DevOps**, and **CI/CD pipelines**. With over **4 years of experience**, I specialize in building robust digital ecosystems using **MERN** and **PERN** architectures.
+
+🚀 **Skilled in:** Designing and deploying scalable web applications using **Node.js, React.js, Tailwind CSS, and PostgreSQL**.
+⚙️ **Backend Expertise:** Experienced in building **RESTful APIs**, implementing **containerized deployments (Docker)**, and developing cloud-ready systems on **AWS/Azure**.
+📘 **Data Science:** I also have specialized experience in technical writing for Data Science using **Python and R**.
 
 *   🔭 **Current Role:** Lead Developer at [**Website Designer Guru**](https://www.websitedesignerguru.com/)
-*   🚀 **Core Expertise:** Process Automation, Admin Dashboards, API Integration, and Mobile App Development.
-*   ⚡ **Soft Skills:** Technical Leadership, Agile/Scrum, Stakeholder Management, and Remote Collaboration.
+*   ⚡ **Core Tech:** React Native, Flutter, Node.js, PostgreSQL, Docker, Kubernetes.
 
 ---
 
 # 💻 Tech Stack & Tools
 
-### 📱 Frontend & Mobile (UI/UX):
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+### ⚙️ Backend Engineering (API & Database):
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
-### ⚙️ Backend & Database (MERN & PERN):
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+### 📱 Frontend & Mobile (Cross-Platform):
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-### ☁️ Cloud, DevOps & Tools:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+### ☁️ DevOps, Cloud & CI/CD:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-# 💼 Professional Experience
+# 💼 Professional Experience (ATS Optimized)
 
 ### 🏢 **Frontend Developer & Technical Writer**
 **Digital Security1** | *Remote*
 *August 2023 – Present*
-*   **Technical Documentation:** Authored over **50+ pages** of comprehensive system diagrams and implementation manuals, effectively standardizing development processes.
-*   **Data Visualization:** Engineered a client-facing analytics dashboard using **React and Tailwind CSS** to visualize real-time security KPIs, enabling data-driven decisions.
-*   **Quality Assurance:** Collaborated with QA teams to enforce rigorous testing standards, ensuring software releases met strict data security protocols.
-*   **Cross-Functional Collaboration:** Partnered with Product Managers to translate software requirements into detailed development tasks and specifications.
+*   **Backend API Consumption:** Optimized frontend performance by refactoring API calls to backend microservices, reducing load times by **25%**.
+*   **Technical Writing (Data Science):** Authored 50+ pages of documentation and tutorials focused on **Data Science methodologies using Python and R**, serving as a knowledge base for internal data teams.
+*   **Visualization Engineering:** Built dynamic dashboards using **React and D3.js** to render complex datasets retrieved from secured REST endpoints.
+*   **CI/CD Pipeline Support:** Assisted DevOps teams in documenting build pipelines and release strategies, ensuring smooth deployment cycles.
 
-### 🏢 **Software Developer (Data Systems Lead)**
+### 🏢 **Software Developer (Backend & Data Systems Lead)**
 **HolyGrail Tresses** | *Remote*
 *August 2024 – February 2025*
-*   **Business Process Automation:** Designed and deployed a custom administrative platform, replacing manual spreadsheets and **reducing data entry errors by 40%**.
-*   **Security Implementation:** Implemented **Role-Based Access Control (RBAC)** and encryption protocols to ensure compliance with data protection policies.
-*   **System Integration:** Built secure API connectors to integrate third-party payment gateways and external data sources, creating a unified data ecosystem.
-*   **System Optimization:** Provided ongoing maintenance and code refactoring to ensure **99.9% high availability** for business-critical operations.
+*   **Backend Architecture:** Architected and deployed a **RESTful API using Node.js and Express**, handling inventory logic and secure user authentication (JWT).
+*   **Database Management:** Designed and optimized **PostgreSQL schemas**, writing complex SQL queries to handle inventory tracking, replacing manual spreadsheet workflows.
+*   **Security & Encryption:** Implemented server-side **Role-Based Access Control (RBAC)** and AES encryption for sensitive financial data, ensuring full GDPR compliance.
+*   **API Integrations:** Built server-side integrations for third-party payment gateways (Stripe/PayPal), managing webhooks and transaction states.
 
 ### 🏢 **Full Stack Developer**
 **APBC Africa** | *Nairobi, Kenya*
 *May 2024 – December 2024*
-*   **Enterprise Tool Development:** Developed a scalable HR automation tool for leave management and payroll, delivering functionality similar to Enterprise PowerApps.
-*   **Workflow Automation:** Engineered intelligent chatbots and automated notification triggers to **reduce manual administrative workload by 30%**.
-*   **Cloud Deployment:** Managed the configuration and deployment of applications on **AWS and Azure**, ensuring systems were stable and accessible to remote staff.
-*   **Technical Support:** Served as the Tier-2 technical support lead during the system pilot phase, troubleshooting user issues and ensuring smooth technology adoption.
+*   **Full Stack Development:** Built an end-to-end HR automation tool using the **MERN Stack**, developing both the React frontend and the **Node.js/MongoDB backend**.
+*   **Server-Side Automation:** Engineered backend logic using **Python scripts** and cron jobs to trigger automated email notifications and payroll calculation tasks.
+*   **Cloud Infrastructure:** Configured **AWS EC2 instances and S3 buckets** for application hosting and file storage, ensuring scalable backend infrastructure.
+*   **System Maintenance:** Performed backend debugging and log analysis to resolve critical production issues during the system pilot phase.
 
 ### 🏢 **Data Analyst & Technical Consultant**
 **Freelance** | *Remote*
 *January 2023 – Present*
-*   **Data Analysis:** Analyzed complex client datasets to identify trends and clean data irregularities, creating insightful reports for strategic planning.
-*   **Requirement Analysis:** Conducted interviews with non-technical stakeholders to bridge the gap between business needs and technical implementation.
-*   **Custom Solutions:** Developed **Python scripts** and tools for data collection and transformation (ETL) to solve specific client challenges.
-*   **Consulting:** Provided expert advice on digital transformation and system architecture to small-to-medium enterprises.
+*   **Data Science Scripting:** Developed **Python (Pandas/NumPy) and R scripts** for ETL (Extract, Transform, Load) processes, cleaning raw client data for analysis.
+*   **Database Design:** Consulted for small businesses on setting up efficient relational database structures (SQL) to prevent data redundancy.
+*   **Requirements Engineering:** Translated non-technical client business needs into strict **technical backend specifications** for development teams.
 
 ---
 
