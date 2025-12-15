@@ -22,7 +22,7 @@ I am an innovative **Senior Full Stack Software Engineer** with **4+ years of ex
 I excel at translating complex business requirements into user-friendly technical solutions, with a strong focus on **Data Quality, System Documentation, and Cloud Architecture**.
 
 *   🔭 **Current Role:** Lead Developer at [**Website Designer Guru**](https://www.websitedesignerguru.com/)
-*   🚀 **Core Expertise:** Process Automation, Admin Dashboards, API Integration, and Mobile App Development.
+*   🚀 **Core Expertise:** Process Automation, Admin Dashboards, API Integration, and Cross-Platform Mobile Apps.
 *   ⚡ **Soft Skills:** Technical Leadership, Agile/Scrum, Stakeholder Management, and Remote Collaboration.
 
 ---
@@ -94,7 +94,5 @@ I excel at translating complex business requirements into user-friendly technica
 ---
 <div align="center">
     <h3>👀 Profile Visitor Count</h3>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=OMONDISOFTWAREENGINEER&label=Recruiters%20Viewed&icon=5&pretty=true" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=OMONDISOFTWAREENGINEER&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
