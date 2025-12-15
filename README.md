@@ -21,7 +21,9 @@
 💻 I’m a **Senior Full-Stack Software Developer** passionate about **Frontend AND Backend Engineering**, **DevOps**, and **CI/CD pipelines**. With over **4 years of experience**, I specialize in building robust digital ecosystems using **MERN** and **PERN** architectures.
 
 🚀 **Skilled in:** Designing and deploying scalable web applications using **Node.js, React.js, Tailwind CSS, and PostgreSQL**.
+
 ⚙️ **Backend Expertise:** Experienced in building **RESTful APIs**, implementing **containerized deployments (Docker)**, and developing cloud-ready systems on **AWS/Azure**.
+
 📘 **Data Science:** I also have specialized experience in technical writing for Data Science using **Python and R**.
 
 *   🔭 **Current Role:** Lead Developer at [**Website Designer Guru**](https://www.websitedesignerguru.com/)
