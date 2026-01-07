@@ -44,7 +44,7 @@
 
 ---
 
-# 💼 Professional Experience (ATS Optimized)
+# 💼 Professional Experience
 
 ### 🏢 **Frontend Developer & Technical Writer**
 **Digital Security1** | *Remote*
